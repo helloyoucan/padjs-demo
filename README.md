@@ -1,1 +1,1 @@
-# padjs-demo
+# psdjs-demo
